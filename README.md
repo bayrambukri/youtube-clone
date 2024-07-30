@@ -1,4 +1,4 @@
-Kütüphaneler
+1-Kütüphaneler
 axios
 react-icons
 react-router-dom
